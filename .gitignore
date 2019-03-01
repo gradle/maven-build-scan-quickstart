@@ -1,0 +1,16 @@
+# IDEA
+# ----
+.idea
+.shelf
+/*.iml
+/*.ipr
+/*.iws
+/out
+
+# MAVEN
+# -----
+/target
+
+# OS X
+# ----
+.DS_Store
