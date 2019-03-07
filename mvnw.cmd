@@ -136,7 +136,7 @@ if exist %WRAPPER_JAR% (
 	)
     echo Couldn't find %WRAPPER_JAR%, downloading it ...
 	echo Downloading from: %DOWNLOAD_URL%
-	
+
     powershell -Command "&{"^
 		"$webclient = new-object System.Net.WebClient;"^
 		"if (-not ([string]::IsNullOrEmpty('%MVNW_USERNAME%') -and [string]::IsNullOrEmpty('%MVNW_PASSWORD%'))) {"^
@@ -147,6 +147,10 @@ if exist %WRAPPER_JAR% (
     echo Finished downloading %WRAPPER_JAR%
 )
 @REM End of extension
+
+# Provide a "standardized" way to retrieve the CLI args that will
+# work with both Windows and non-Windows executions.
+set MAVEN_CMD_LINE_ARGS=%*
 
 %MAVEN_JAVA_EXE% %JVM_CONFIG_MAVEN_PROPS% %MAVEN_OPTS% %MAVEN_DEBUG_OPTS% -classpath %WRAPPER_JAR% "-Dmaven.multiModuleProjectDirectory=%MAVEN_PROJECTBASEDIR%" %WRAPPER_LAUNCHER% %MAVEN_CONFIG% %*
 if ERRORLEVEL 1 goto error
