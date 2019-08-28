@@ -10,7 +10,7 @@
 # MAVEN
 # -----
 /target
-.mvn/gradle-enterprise-workspace-id.txt
+.mvn/.gradle-enterprise/gradle-enterprise-workspace-id
 
 # OS X
 # ----
