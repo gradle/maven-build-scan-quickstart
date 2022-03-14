@@ -35,14 +35,13 @@ Read the [Gradle Enterprise Maven Extension User Manual][manual] to learn more a
 
 Talk to us on the [Gradle forum][gradle-forum].
 
-[manual]: https://docs.gradle.com/enterprise/maven-extension
-[gradle.com]: https://www.gradle.com
-[terms-of-service]: https://gradle.com/terms-of-service
-[scans.gradle.com]: https://scans.gradle.com
-[gradle-forum]: https://discuss.gradle.org/c/help-discuss/scans
-
 ## License
 
 The Maven Build Scan™ quickstart project is open-source software released under the [Apache 2.0 License][apache-license].
 
 [apache-license]: https://www.apache.org/licenses/LICENSE-2.0.html
+[manual]: https://docs.gradle.com/enterprise/maven-extension
+[gradle.com]: https://www.gradle.com
+[terms-of-service]: https://gradle.com/terms-of-service
+[scans.gradle.com]: https://scans.gradle.com
+[gradle-forum]: https://discuss.gradle.org/c/help-discuss/scans
