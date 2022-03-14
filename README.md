@@ -41,3 +41,8 @@ Talk to us on the [Gradle forum][gradle-forum].
 [scans.gradle.com]: https://scans.gradle.com
 [gradle-forum]: https://discuss.gradle.org/c/help-discuss/scans
 
+## License
+
+The Maven Build Scan™ quickstart project is open-source software released under the [Apache 2.0 License][apache-license].
+
+[apache-license]: https://www.apache.org/licenses/LICENSE-2.0.html
