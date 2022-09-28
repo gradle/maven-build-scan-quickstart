@@ -27,6 +27,10 @@ Create different kinds of Build Scans by locally modifying this quickstart proje
 
 Alternatively, enable one of your own Maven builds to produce Build Scans by following the [step-by-step instructions][scans.gradle.com].
 
+## Using Test Distribution
+
+Test Distribution is enabled, but a [Gradle Enterprise server needs to be configured][getting_set_up] in order to use Test Distribution agents.
+
 ## Learn more
 
 Read the [Gradle Enterprise Maven Extension User Manual][manual] to learn more about the Build Scan™ service of Gradle Enterprise, build caching and the Gradle Enterprise Maven Extension.
@@ -44,4 +48,5 @@ The Maven Build Scan™ quickstart project is open-source software released unde
 [gradle.com]: https://www.gradle.com
 [terms-of-service]: https://gradle.com/terms-of-service
 [scans.gradle.com]: https://scans.gradle.com
+[getting_set_up]: https://docs.gradle.com/enterprise/maven-extension/#getting_set_up
 [gradle-forum]: https://discuss.gradle.org/c/help-discuss/scans
