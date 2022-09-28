@@ -38,6 +38,14 @@
       <plugin>
         <artifactId>maven-surefire-plugin</artifactId>
         <version>3.1.0</version>
+        <configuration>
+          <properties>
+            <!-- For additional configuration options, see https://docs.gradle.com/enterprise/test-distribution/#maven_configuration -->
+            <distribution>
+              <enabled>true</enabled>
+            </distribution>
+          </properties>
+        </configuration>
       </plugin>
     </plugins>
   </build>
