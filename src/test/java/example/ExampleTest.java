@@ -1,14 +1,14 @@
 package example;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class ExampleTest {
+class ExampleTest {
 
     @Test
-    public void testJoin() {
-        assertEquals("Joined string didn't match", "1 2 3", Example.join("1", "2", "3"));
+    void testJoin() {
+        assertEquals("1 2 3", Example.join("1", "2", "3"), "Joined string didn't match");
     }
 
 }
