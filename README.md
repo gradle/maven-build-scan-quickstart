@@ -25,7 +25,7 @@ Create different kinds of Build Scans by locally modifying this quickstart proje
 - Edit `src/main/java/example/Example.java` to introduce compile errors
 - Add more plugins and more projects
 
-Alternatively, enable one of your own Maven builds to produce Build Scans by following the [step-by-step instructions][scans.gradle.com].
+Alternatively, enable one of your own Maven builds to produce Build Scans by following the [step-by-step instructions][https://scans.gradle.com/#maven].
 
 ## Learn more
 
