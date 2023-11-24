@@ -1,8 +1,8 @@
 # Maven Build Scan® quickstart
 
-This is an example project that you can use to experience the [Build Scan® service of Gradle Enterprise][gradle.com].
+This is an example project that you can use to experience the [Build Scan® service of Develocity][gradle.com].
 
-It is a small Java project that has the [Gradle Enterprise Maven Extension][manual] already applied.
+It is a small Java project that has the [Develocity Maven Extension][manual] already applied.
 
 ## Create a Build Scan®
 
@@ -29,7 +29,7 @@ Alternatively, enable one of your own Maven builds to produce Build Scans by fol
 
 ## Learn more
 
-Read the [Gradle Enterprise Maven Extension User Manual][manual] to learn more about the Build Scan® service of Gradle Enterprise, build caching and the Gradle Enterprise Maven Extension.
+Read the [Develocity Maven Extension User Manual][manual] to learn more about the Build Scan® service of Develocity, build caching and the Develocity Maven Extension.
 
 ## Need help?
 
