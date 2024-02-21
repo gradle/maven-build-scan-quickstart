@@ -9,7 +9,8 @@ It is a small Java project that has the [Develocity Maven Extension][manual] alr
 Follow these simple steps to create and publish a Build Scan® on [scans.gradle.com][scans.gradle.com]:
 
 1. Clone this project
-1. Run `./mvnw clean test`
+2. Run `./mvnw clean test`
+3. Agree to the [Terms of Service][terms-of-service] on the command line
 
 The build should end with something similar to:
 
@@ -25,7 +26,7 @@ Create different kinds of Build Scans by locally modifying this quickstart proje
 - Edit `src/main/java/example/Example.java` to introduce compile errors
 - Add more plugins and more projects
 
-Alternatively, enable one of your own Maven builds to produce Build Scans by following the [step-by-step instructions][https://scans.gradle.com/#maven].
+Alternatively, enable one of your own Maven builds to produce Build Scans by following the [step-by-step instructions](https://scans.gradle.com/#maven).
 
 ## Learn more
 
