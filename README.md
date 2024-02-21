@@ -25,7 +25,7 @@ Create different kinds of Build Scans by locally modifying this quickstart proje
 - Edit `src/main/java/example/Example.java` to introduce compile errors
 - Add more plugins and more projects
 
-Alternatively, enable one of your own Maven builds to produce Build Scans by following the [step-by-step instructions][https://scans.gradle.com/#maven].
+Alternatively, enable one of your own Maven builds to produce Build Scans by following the [step-by-step instructions](https://scans.gradle.com/#maven).
 
 ## Learn more
 
@@ -42,6 +42,5 @@ The Maven Build Scan® quickstart project is open-source software released under
 [apache-license]: https://www.apache.org/licenses/LICENSE-2.0.html
 [manual]: https://docs.gradle.com/enterprise/maven-extension
 [gradle.com]: https://www.gradle.com
-[terms-of-service]: https://gradle.com/terms-of-service
 [scans.gradle.com]: https://scans.gradle.com
 [gradle-forum]: https://discuss.gradle.org/c/help-discuss/scans
