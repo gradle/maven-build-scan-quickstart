@@ -1,5 +1,7 @@
 # Maven Build Scan® quickstart
 
+Change something to create a PR
+
 This is an example project that you can use to experience the [Build Scan® service of Develocity][gradle.com].
 
 It is a small Java project that has the [Develocity Maven Extension][manual] already applied.
